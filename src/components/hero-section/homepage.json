@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_hero_section_homepages",
+  "info": {
+    "displayName": "Homepage"
+  },
+  "options": {},
+  "attributes": {
+    "valueProposition": {
+      "type": "blocks"
+    },
+    "seoExplanation": {
+      "type": "blocks"
+    }
+  }
+}
